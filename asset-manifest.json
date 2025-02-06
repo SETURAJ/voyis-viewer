@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/voyis-viewer/static/css/main.8a892b3e.css",
+    "main.js": "/voyis-viewer/static/js/main.13b56c6e.js",
+    "index.html": "/voyis-viewer/index.html",
+    "main.8a892b3e.css.map": "/voyis-viewer/static/css/main.8a892b3e.css.map",
+    "main.13b56c6e.js.map": "/voyis-viewer/static/js/main.13b56c6e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a892b3e.css",
+    "static/js/main.13b56c6e.js"
+  ]
+}
